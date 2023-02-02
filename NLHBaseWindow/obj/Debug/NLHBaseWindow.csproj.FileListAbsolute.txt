@@ -1,0 +1,11 @@
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHospitalLibrary.dll
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.AssemblyReference.cache
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CopyComplete
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb

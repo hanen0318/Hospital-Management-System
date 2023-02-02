@@ -1,0 +1,6 @@
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.AssemblyReference.cache
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.dll
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.dll
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\hanks\source\repos\Final_Project_Multi_tier\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.pdb
